@@ -10,7 +10,7 @@ This package includes the following files:
 |-- README.txt [This file]
 
 To compile:
-    	make
+	make
 	OR
 	make all
 
